@@ -1,0 +1,27 @@
+#product .container {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.introduce_img-car {
+  width: 30px;
+  height: 20px;
+}
+
+@media (min-width: 428px) and (max-width: 686px) {
+  #product .container {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  #product .title {
+    margin-left: 0;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+}
+@media (min-width: 690px) and (max-width: 991px) {
+}
+@media (min-width: 990px) and (max-width: 1100px) {
+}
+@media screen and (min-width: 1200px) {
+}
